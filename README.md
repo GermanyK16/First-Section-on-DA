@@ -31,7 +31,7 @@ we have 3 types of structures of data which are:
 |JESSICA|FEMALE|18|MARRIED|
 
 
- **Unstructured data:** they are media data like audio files, documents e.t.c
+**Unstructured data:** they are media data like audio files, documents e.t.c
 
 
 **Semi structured data:** they are not in tabular forms, they are seperated by commands like commas (,) 
