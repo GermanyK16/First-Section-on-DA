@@ -8,4 +8,4 @@
 - average
 - count
 - left function
-# Using the excel application [download here](www.microsoft.com)
+# Using the excel application [download here](https/microsoft.com)
