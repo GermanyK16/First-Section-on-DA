@@ -40,3 +40,6 @@ we have 3 types of structures of data which are:
 ![image](https://github.com/GermanyK16/First-Section-on-DA/blob/main/watermelon.jpeg?raw=true)
 
 
+🍒
+
+
